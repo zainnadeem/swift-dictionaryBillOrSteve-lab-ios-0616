@@ -93,7 +93,5 @@ class ViewController: UIViewController {
         } else {
             return "Bill Gates"
         }
-        
     }
-    
 }
